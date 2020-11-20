@@ -1,0 +1,8 @@
+{
+  "name": "bntmk",
+  "version": "0.0.1",
+  "description": "simple benchmark library",
+  "main": "index.js",
+  "author": "akthrms",
+  "license": "MIT"
+}
