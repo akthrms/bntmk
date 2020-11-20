@@ -1,6 +1,6 @@
 {
   "name": "bntmk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "simple benchmark library",
   "main": "index.js",
   "author": "akthrms",
