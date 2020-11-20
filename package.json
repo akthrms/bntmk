@@ -1,6 +1,6 @@
 {
   "name": "bntmk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple benchmark library",
   "main": "index.js",
   "author": "akthrms",
@@ -10,5 +10,7 @@
     "url": "git+https://github.com/akthrms/bntmk.git"
   },
   "homepage": "https://github.com/akthrms/bntmk",
-  "keywords": ["benchmark"]
+  "keywords": [
+    "benchmark"
+  ]
 }
